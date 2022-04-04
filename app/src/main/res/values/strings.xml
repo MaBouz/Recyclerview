@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Recyclerview</string>
+    <string-array name="array_titre">
+        <item>Title1</item>
+        <item>Title2</item>
+        <item>Title3</item>
+        <item>Title4</item>
+        <item>Title5</item>
+        <item>Title6</item>
+        <item>Title7</item>
+        <item>Title8</item>
+        <item>Title9</item>
+    </string-array>
+    <string-array name="array_sous_titre">
+        <item>Subtitle1</item>
+        <item>Subtitle2</item>
+        <item>Subtitle3</item>
+        <item>Subtitle4</item>
+        <item>Subtitle5</item>
+        <item>Subtitle6</item>
+        <item>Subtitle7</item>
+        <item>Subtitle8</item>
+        <item>Subtitle9</item>
+    </string-array>
+
+</resources>
